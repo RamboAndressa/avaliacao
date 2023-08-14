@@ -47,7 +47,15 @@
 .container__botao{
     display: none;
 }
+@media screen and (min-width: 1024px){
+    .titulo__cabecalho{
+        font-size: 30px;
+        font-family: var(--font-secundaria);
+        color: rgb(99, 63, 114);
+        display: block;
+    }
 
+}
 
 
 
